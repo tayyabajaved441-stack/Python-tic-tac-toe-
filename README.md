@@ -15,7 +15,6 @@ Two players can play, with full winning logic and input validation.
 2. Run the python file:
 ```bash
 python tic_tac_toe.py
-'''
 🛠️ Technologies Used
 Python 3
 👩‍💻 AuthorTayyaba Javed - Aspiring Python Developer
